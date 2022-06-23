@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SamplePage</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="pebbles">Pebbles</string>
+    <string name="create">Create</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image">Image</string>
+    <string name="my_father_cryied_when_i_hugged_him_todayy_thank_you_mendofeel">my father cryied when i hugged him todayy... thank you MenDoFeel</string>
+    <string name="hello">hello</string>
+</resources>
